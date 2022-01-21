@@ -1,8 +1,9 @@
 <img src="https://github.com/gokturkx/gokturkx/blob/main/aws%20devops.jpg?raw=true">
 <h1 align="center">Hi 👋, I'm Göktürk ŞİMŞEK</h1>
-- 🌱 I’m working at Clarusway as a Trainee 
-- I'am AWS & DEVOPS ENGINEER
-- || AWS & DevOps Engineer Traniee || Python || SQL || Linux || Git ||
+- <h3 align="center">I’m working at Clarusway as a Trainee</h3>
+- 🌱  <h3 align="center">I'am AWS & DEVOPS ENGINEER</h3>
+- <h3 align="center">|| AWS & DevOps Engineer Traniee || Python || SQL || Linux || Git ||</h3>
+- 
 
 - 📫 How to reach me **gokturkx@gmail.com**
 
