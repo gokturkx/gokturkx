@@ -1,3 +1,4 @@
+<img src="https://github.com/gokturkx/gokturkx/blob/main/aws%20devops.jpg?raw=true">
 <h1 align="center">Hi 👋, I'm Göktürk ŞİMŞEK</h1>
 - 🌱 I’m currently learning **PYTHON**
 
