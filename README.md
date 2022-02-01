@@ -1,7 +1,7 @@
 <img src="https://github.com/gokturkx/gokturkx/blob/main/aws%20devops.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Göktürk ŞİMŞEK</h1>
-<h3 align="center">DevOps-Engineer | AWS & Azure Certified Cloud Administrator |</h3>
+<h3 align="center">AWS | DevOps-Engineer</h3>
 <p>&nbsp;</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokturkx&label=Profile%20views&color=0e75b6&style=flat" alt="gokturkx" /> </p>
 
